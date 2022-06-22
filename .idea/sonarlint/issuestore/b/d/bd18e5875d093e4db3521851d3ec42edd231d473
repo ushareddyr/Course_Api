@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³²ìäøÿÿÿÿ
+K
+java:S1172'")Remove this unused method parameter "id".(åı¶ùÿÿÿÿ8®ú™»˜0
+\
+java:S1117":Rename "topics" which hides the field declared at line 16.(­Ã«ıÿÿÿÿ8„ıë¹˜0
+]	java:S125"<This block of commented-out lines of code should be removed.(í”©¿şÿÿÿÿ8Ì¶ìº˜0
+X	java:S125#"<This block of commented-out lines of code should be removed.(¦êé£8•…÷¹˜0

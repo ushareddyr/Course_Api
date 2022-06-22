@@ -1,0 +1,16 @@
+
+c
+java:S4488 "HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(é’ş¦ùÿÿÿÿ
+Y
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(‚µØşÿÿÿÿ
+]
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ö²Í8°’Ë˜0
+Y
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(£Şèşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íĞÍ×ûÿÿÿÿ
+e
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(°é½¨üÿÿÿÿ
+b
+java:S4684!"@Replace this persistent entity with a simple POJO or DTO object.(Á„ª´úÿÿÿÿ8°’Ë˜0
+i
+java:S4488&"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(ìùÿÓûÿÿÿÿ
